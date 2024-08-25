@@ -1,0 +1,14 @@
+# Ignore build files
+/build/
+/DerivedData/
+
+# Ignore user-specific Xcode files
+*.xcuserdata
+*.xcuserstate
+
+# Ignore workspace settings
+*.xcworkspace/
+
+# Ignore macOS system files
+.DS_Store
+
