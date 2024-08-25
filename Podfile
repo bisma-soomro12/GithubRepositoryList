@@ -7,5 +7,6 @@ target 'RepositoryListProject' do
 
   # Pods for RepositoryListProject
 	pod 'SDWebImage'
+	pod 'SkeletonView'
 
 end
