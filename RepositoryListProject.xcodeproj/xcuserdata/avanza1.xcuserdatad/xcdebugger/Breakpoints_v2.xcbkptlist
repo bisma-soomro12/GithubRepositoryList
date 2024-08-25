@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CE5CA92A-CE6E-4755-B855-75205ACE4056"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9CA6276-894E-4360-B45D-5EF48BDB118B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepositoryListProject/Modules/RepositoryList/Views/RepositoryListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33C664FF-74E9-4223-B57B-0DF7054DEBAD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepositoryListProject/Modules/RepositoryList/Presenter/RepositoryListPresesnter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEF183CC-BB2D-4471-A109-9CC6FD5F7F5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepositoryListProject/Modules/RepositoryList/Interactor/RepositoryListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "onFetchRepositoryList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DEF183CC-BB2D-4471-A109-9CC6FD5F7F5A - 7eb1b4224c1c6f5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RepositoryListProject.RepositoryListInteractor.onFetchRepositoryList() -&gt; ()"
+                  moduleName = "RepositoryListProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/avanza1/Desktop/RepositoryListProject/RepositoryListProject/Modules/RepositoryList/Interactor/RepositoryListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "DEF183CC-BB2D-4471-A109-9CC6FD5F7F5A - 48d88383e54eef93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RepositoryListProject.RepositoryList, RepositoryListProject.ApiError&gt;) -&gt; () in RepositoryListProject.RepositoryListInteractor.onFetchRepositoryList() -&gt; ()"
+                  moduleName = "RepositoryListProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/avanza1/Desktop/RepositoryListProject/RepositoryListProject/Modules/RepositoryList/Interactor/RepositoryListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "170">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2394DBA-ED7C-4FB8-8A80-8C15D1CB8716"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepositoryListProject/Modules/RepositoryList/Interactor/RepositoryListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "onFetchRepositoryList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B2394DBA-ED7C-4FB8-8A80-8C15D1CB8716 - 48d88383e54eec51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RepositoryListProject.RepositoryList, RepositoryListProject.ApiError&gt;) -&gt; () in RepositoryListProject.RepositoryListInteractor.onFetchRepositoryList() -&gt; ()"
+                  moduleName = "RepositoryListProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/avanza1/Desktop/RepositoryListProject/RepositoryListProject/Modules/RepositoryList/Interactor/RepositoryListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "210">
+               </Location>
+               <Location
+                  uuid = "B2394DBA-ED7C-4FB8-8A80-8C15D1CB8716 - 48d88383e54eec51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RepositoryListProject.RepositoryList, RepositoryListProject.ApiError&gt;) -&gt; () in RepositoryListProject.RepositoryListInteractor.onFetchRepositoryList() -&gt; ()"
+                  moduleName = "RepositoryListProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/avanza1/Desktop/RepositoryListProject/RepositoryListProject/Modules/RepositoryList/Interactor/RepositoryListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "314">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4203FF4-9867-4B93-8757-7A60B4A89305"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RepositoryListProject/Helpers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "apiRequest(apiUrl:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
