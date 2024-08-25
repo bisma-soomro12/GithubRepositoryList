@@ -6,6 +6,6 @@ target 'RepositoryListProject' do
   use_frameworks!
 
   # Pods for RepositoryListProject
-	pod 'SDWebImage', '~> 5.0'
+	pod 'SDWebImage'
 
 end

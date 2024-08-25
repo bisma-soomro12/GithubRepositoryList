@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import SDWebImage
 
 class RepositoryCell: UITableViewCell {
 
@@ -21,6 +22,7 @@ class RepositoryCell: UITableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        imgView.layer.cornerRadius = 30
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
@@ -34,6 +36,7 @@ class RepositoryCell: UITableViewCell {
         repositoryLbl.text = repository.full_name
         starCountLbl.text = "\(repository.stargazers_count ?? 0)"
         languageLbl.text = repository.language
+        imgView.sd_setImage(with: URL(string: repository.owner?.avatar_url ?? ""))
         
         if repository.language == nil {
             languageStackView.isHidden = true
