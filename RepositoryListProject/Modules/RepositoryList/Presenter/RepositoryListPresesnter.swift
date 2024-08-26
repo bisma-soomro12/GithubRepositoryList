@@ -13,7 +13,6 @@ class RepositoryListPresesnter : ViewToPresenterRepositoryListProtocol{
     var interactor: PresenterToInteractorRepositoryListProtocol?
     
     func viewDidLoad() {
-        view?.showActivity()
         interactor?.onFetchRepositoryList()
     }
     
@@ -44,11 +43,9 @@ extension RepositoryListPresesnter : InteractorToPresenterRepositoryListProtocol
     func fetchRepositoryListSuccess(repositories: [Repositories]) {
         self.repositories = repositories
         view?.onFetchRepositoryListSuccess()
-        view?.hideActivit()
     }
     
     func fetchRepositoryListFailure(error: String) {
-        view?.hideActivit()
         view?.onFetchRepositoryListFailure(error: "Fetching Error \(error)")
     }
     
