@@ -1,0 +1,22 @@
+PODS:
+  - SDWebImage (5.19.2):
+    - SDWebImage/Core (= 5.19.2)
+  - SDWebImage/Core (5.19.2)
+  - SkeletonView (1.30.4)
+
+DEPENDENCIES:
+  - SDWebImage
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  SDWebImage: dfe95b2466a9823cf9f0c6d01217c06550d7b29a
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+
+PODFILE CHECKSUM: 2e4fb0d6ade19a83046b5b27b5aab410b61a7462
+
+COCOAPODS: 1.15.2

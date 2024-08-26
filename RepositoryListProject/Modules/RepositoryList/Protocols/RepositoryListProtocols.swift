@@ -21,8 +21,7 @@ protocol ViewToPresenterRepositoryListProtocol{
 protocol PresenterToViewRepositoryListProtocol{
     func onFetchRepositoryListSuccess()
     func onFetchRepositoryListFailure(error: String)
-    func showActivity()
-    func hideActivit()
+
 }
 
 
